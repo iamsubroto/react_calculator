@@ -2,7 +2,7 @@
   "name": "react-calculator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://iamsubroto.github.io/react-calculator",
+  "homepage": "https://iamsubroto.github.io/react_calculator",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "mathjs": "^5.8.0",
